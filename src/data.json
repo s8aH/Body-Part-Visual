@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "icon": "./brain.png",
+    "title": "Brain",
+    "bottom": "700px",
+    "right": "300px",
+    "button": { "top": 24, "left": 170 }
+  },
+  {
+    "id": 2,
+    "icon": "./throat.png",
+    "title": "Throat",
+    "bottom": "700px",
+    "right": "300px",
+    "button": { "top": 130, "left": 178 }
+  },
+  {
+    "id": 3,
+    "icon": "./heart.png",
+    "title": "Heart",
+    "bottom": "700px",
+    "right": "300px",
+    "button": { "top": 190, "left": 210 }
+  },
+  {
+    "id": 4,
+    "icon": "./liver.png",
+    "title": "Liver",
+    "bottom": "700px",
+    "right": "300px",
+    "button": { "top": 260, "left": 140 }
+  }
+]
