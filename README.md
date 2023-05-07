@@ -2,15 +2,15 @@
 This a React project that allows users to view the health impacts of air pollution on different parts of the body. The user can click on different body parts to see information about how air pollution affects that particular part of the body.
 
 ## Features
-*Interactive body visuals
-*Displays health impacts related to air pollution
-*User-friendly interface
+* Interactive body visuals
+* Displays health impacts related to air pollution
+* User-friendly interface
 
 ## Technologies Used
-React
-*JavaScript
-*HTML
-*CSS
+* React
+* JavaScript
+* HTML
+* CSS
 
 ## Installation
 To install this application, first clone the repository:
