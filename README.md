@@ -1,6 +1,10 @@
 # body-part-visual
 This a React project that allows users to view the health impacts of air pollution on different parts of the body. The user can click on different body parts to see information about how air pollution affects that particular part of the body.
 
+## Live Application
+- **Demo**: [View the live application here](https://codesandbox.io/s/github/s8aH/body-part-visual)
+- **UX Design**: [Explore the UX wireframes on Figma](https://www.figma.com/file/yn7ETZbHLSHGvBZHLWpEkU/ATTA-Wireframe-(Copy)?type=design&node-id=3-697&mode=design)
+
 ## Features
 * Interactive body visuals
 * Displays health impacts related to air pollution
